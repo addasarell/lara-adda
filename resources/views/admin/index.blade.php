@@ -1,0 +1,2 @@
+ini admin index
+s
